@@ -1,0 +1,29 @@
+.markdown-preview-view h1 {
+    width: 100%;
+    color: rgb(0, 255, 0)
+}
+
+.markdown-preview-view h2 {
+    width: 80%;
+    color: rgb(0, 255, 0)
+}
+
+.markdown-preview-view h3 {
+    width: 60%;
+    color: rgb(0, 255, 0)
+}
+
+.markdown-preview-view h4 {
+    width: 40%;
+    color: rgb(0, 255, 0)
+}
+
+.markdown-preview-view h5 {
+    width: 20%;
+    color: rgb(0, 255, 0)
+}
+
+.markdown-preview-view h6 {
+    width: 15%;
+    color: rgb(0, 255, 0)
+}

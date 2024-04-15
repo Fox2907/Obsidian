@@ -1,0 +1,3 @@
+La programación es el proceso de crear un conjunto de instrucciones o código que le indica a una computadora cómo realizar una tarea específica. En esencia, se trata de escribir un conjunto de comandos en un lenguaje de programación que la computadora pueda entender y ejecutar. Estas instrucciones pueden abarcar desde tareas simples, como realizar cálculos matemáticos, hasta tareas complejas, como desarrollar aplicaciones o sistemas completos.
+
+- [[Notación de variables]]

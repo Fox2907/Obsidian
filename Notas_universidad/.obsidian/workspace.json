@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "c0dbe2d33ecef7c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a3147270afca33d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68518b89d7c0dece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Administración de sistemas operativos y servidores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b051883f1bb94dc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d72a32c8483c265f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cda9b78383f3e24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfc7a4b5e4184886",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b60bb16f070b88a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2165547a50b58722",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfea57d25a0f2a26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbd09936475c6af2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Administración de sistemas operativos y servidores.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ab7fab140de14c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Administración de sistemas operativos y servidores.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1b2a70c6e68e40a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa1cdfa5fbce5826",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Administración de sistemas operativos y servidores.md"
+              }
+            }
+          },
+          {
+            "id": "b146ee49c0aea429",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "68518b89d7c0dece",
+  "lastOpenFiles": [
+    "Método vs Metodología.md",
+    "Metodologías Ágiles.md",
+    "Design Thinking.md",
+    "Análisis y diseño de sistemas II.md",
+    "OOHDM.md",
+    "Administración de sistemas operativos y servidores.md",
+    "Modelos de ciclos de vida.md",
+    "6to Semestre.md",
+    "Proyecto.md",
+    "Preguntas de examen.md",
+    "Cubos e hipercubos.md",
+    "Data Warehouse.md",
+    "Base de datos III.md",
+    "Planificación mediante roles multinivel.md",
+    "Algoritmos.md",
+    "Planificación S.J.F (Shortest Job First).md",
+    "Planificación F.C.F.S..md",
+    "Planificación por prioridades.md",
+    "Planificación por turnos.md",
+    "Scrum.md",
+    "RUP (Rational Unified Process).md",
+    "XP (Extreme Programming).md"
+  ]
+}

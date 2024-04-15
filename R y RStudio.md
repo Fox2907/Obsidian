@@ -1,0 +1,2 @@
+- Data frame: Las columnas de datos del data frame pueden ser de distintos tipos.
+- 

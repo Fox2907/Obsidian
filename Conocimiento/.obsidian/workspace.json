@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "151d70dfeb7449d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7c3389b56a74f31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb9c5b10ca53e353",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56bda1d7816b9872",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc0c974f4e15c739",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "534efb77e34c015a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bcb50c645425a16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cedbb9e7499228b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "fbde2329fa61f34e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0b353e5bc869cce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da905863e70c957d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f92e6262a1ba456",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "301d246679e5ce9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c9a0edd7efed7ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cb9c5b10ca53e353",
+  "lastOpenFiles": [
+    "Conocimiento/Ingeniería de Sistemas/Conceptos Básicos/Spooling.md",
+    "Conocimiento/Ingeniería de Sistemas/Conceptos Básicos/Sistema de procesamiento de tiempo compartido.md",
+    "Conocimiento/Ingeniería de Sistemas/Conceptos Básicos/Multiprogramación.md",
+    "Conocimiento/Ingeniería de Sistemas/Conceptos Básicos/Circuitos integrados.md",
+    "Conocimiento/Ingeniería de Sistemas/Conceptos Básicos/Buffering.md",
+    "Untitled",
+    "Conocimiento/Ingeniería de Sistemas/Administración de Sistemas Operativos y Servidores/3ra Generación.md",
+    "Conocimiento/Ingeniería de Sistemas/Conceptos Básicos",
+    "Conocimiento/Ingeniería de Sistemas/Administración de Sistemas Operativos y Servidores",
+    "Conocimiento/Ingeniería de Sistemas",
+    "Conocimiento"
+  ]
+}

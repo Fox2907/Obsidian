@@ -1,0 +1,5 @@
+El spooling (Simultaneous Peripheral Operation On-line) es una técnica que se utiliza para gestionar y organizar las tareas de entrada/salida en una computadora. Su principal objetivo es mejorar la eficiencia en el acceso a los dispositivos periféricos, como impresoras, en un entorno de multiprogramación.
+
+Cuando un usuario envía una solicitud de impresión a la impresora, en lugar de enviar los datos de impresión directamente a la impresora, el sistema operativo guarda estos datos en una cola de spooling (spool queue) en el disco duro. Desde allí, la impresora puede acceder a los datos en la cola de manera secuencial y procesarlos en su propio tiempo, mientras que el usuario puede continuar trabajando en su computadora sin esperar a que se complete la impresión.
+
+El spooling es especialmente útil en situaciones donde la velocidad de impresión es más lenta en comparación con la velocidad de procesamiento de la computadora. Además, el spooling permite compartir una impresora entre varios usuarios y evita conflictos y bloqueos que podrían surgir si múltiples usuarios intentaran imprimir al mismo tiempo.

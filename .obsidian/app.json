@@ -1,0 +1,18 @@
+{
+  "spellcheckLanguages": null,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "foldHeading": false,
+  "focusNewTab": true,
+  "spellcheck": true,
+  "propertiesInDocument": "visible",
+  "promptDelete": true,
+  "userIgnoreFilters": [
+    "Imágenes/"
+  ],
+  "showIndentGuide": false,
+  "vimMode": false,
+  "showInlineTitle": false
+}

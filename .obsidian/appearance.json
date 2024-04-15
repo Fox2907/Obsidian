@@ -1,0 +1,17 @@
+{
+  "accentColor": "#1ccc19",
+  "translucency": false,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "JustifyText",
+    "CenterEmbeds",
+    "CenterTables",
+    "BoldTitles"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font",
+  "textFontFamily": "CaskaydiaCove Nerd Font",
+  "showViewHeader": true
+}

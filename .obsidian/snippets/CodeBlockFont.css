@@ -1,0 +1,16 @@
+/*****************************/
+/* Code-blocks: Font & style */
+/*****************************/
+  /* Edit mode */
+  .cm-s-obsidian pre.HyperMD-codeblock {     
+    font-family: Cascadia Code;
+    font-size: 13px;
+    font-weight: 350;
+  }
+  
+  /* Preview mode */
+  .markdown-preview-view pre.HyperMD-codeblock {
+    font-family: CaskaydiaCove Nerd Font;  
+    font-size: 13px;
+    font-weight: 375;
+  }

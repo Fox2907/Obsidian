@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "09e8ca85ec07d210",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebf361383bb1015b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f795283c239d967c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d37106ab140f7174",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9513b97481eb1619",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "74081e51f45e190d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9ecc7c20d765fefc",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8e94c73fb5206d62",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "954e439b53e1a53e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d80b48ed52bdcdd4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0e4d9e92b3824ec8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1d87a2b31b7fa866",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f795283c239d967c",
+  "lastOpenFiles": [
+    "Conocimiento/Ingeniería de Sistemas/Conceptos Básicos/Buffering.md",
+    "Conocimiento/Ingeniería de Sistemas/Administración de Sistemas Operativos y Servidores/3ra Generación.md",
+    "Conocimiento/Ingeniería de Sistemas/Conceptos Básicos/Circuitos integrados.md",
+    "Conocimiento/Ingeniería de Sistemas/Conceptos Básicos/Multiprogramación.md",
+    "Conocimiento/Ingeniería de Sistemas/Conceptos Básicos/Spooling.md"
+  ]
+}

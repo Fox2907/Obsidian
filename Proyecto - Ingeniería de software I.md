@@ -1,0 +1,16 @@
+- Factibilidad operacional
+	-Capacitación
+	-Explicar la factibilidad con las tecnologías
+- Factibilidad técnica
+	-Computadora: Monitor, Mouse, teclado, etc.
+	-Nginx, Apache
+- Factibilidad económica
+	-COCOMO
+	-Costo de desarrollo
+
+- Play Store: Cuenta de desarrollador 
+- Modelo de desarrollo iterativo e incremental por prototipos
+- Firebase?
+- Costos resumidos en una tabla al final
+- Separar de las tablas Hardware - Software
+- Cliente/servidor, Web, Aplicación móvil

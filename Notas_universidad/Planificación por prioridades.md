@@ -1,0 +1,2 @@
+El algoritmo SJF es un caso especial del  algoritmo por prioridades general. A cada proceso se le asigna una prioridad. 
+La CPU asigna al proceso que tenga la prioridad más alta. En caso de empate se rompe con F.C.F.S.
